@@ -1,0 +1,41 @@
+ <div id="show1" class="pf062c">
+       <h3>Sobre Parrot</h3>
+       <br>
+       <p>
+           Imagina que você tem preça e precisa criar um pequeno projeto rápido e 
+           precisa de uma paleta de cores para ele. Pois é, cara! Parrot foi criado para isso,
+           para você ter em mãos a peleta para seu projeto.
+       </p>
+       </div>
+
+       <div id="show2" class="pf062c">
+           <h3>Descrição</h3>
+           <br>
+            <p>
+                Criado em css, não tem peso algum para a sua máquina, pois são só
+                alguns KB's que irão lhe auxíliar e muito na hora de desenvolver
+                suas cores em front-end.
+            </p>
+        </div>
+
+    <div id="show3" class="pf062c">
+       <h3>Como utlizar</h3>
+       <br>
+       <p>
+            Basta fazer a chamada na página que você deseja e usar as cores desejadas que
+            estão em forma de classes css. As classes para background Sempre terminarão 
+            com "b" e as de texto, com "c".
+            Elas iniciam com as siglas pf em seguida vem os números que começam 000 e depois
+            as letras de background o texto. Exemplo ->
+        </p>
+    </div>
+
+    <div id="show4" class="pf062c">
+        <h3>Olha como é fácil</h3>
+       <br>
+       <p>
+            Quero uma div com um fundo preto e texto amarelo. Abro uma div que vai ter 
+            uma class="pf000b pf068c". Pronto, é simples assim. Não tem nada grandioso pra 
+            ser feito.
+        </p>
+    </div>
